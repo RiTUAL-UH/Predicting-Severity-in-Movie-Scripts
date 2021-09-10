@@ -26,7 +26,7 @@ Scikit-learn 0.23.2
 Sentence-transformers 0.4.1.2
 ```
 ### Use of the code
-#### Sentence BERT embedding
+#### SentenceBERT embedding
 Use the following command to embed all text into utterance-level sentence embeddings.
 ```bash
 python text_embedding.py --data_dir your-save-path
