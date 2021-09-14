@@ -4,7 +4,7 @@
 This repository hosts the dataset and the source code of the paper *From None to Severe: Predicting Intensity in Movie Scripts*.
 
 ## Dataset
-Please find the dataset through this link.
+Please find the dataset under the `Data` folder.
 
 This zip file contains train/dev/test files of 5 aspects of age-restricted content.
 
@@ -13,7 +13,7 @@ The data is formatted in the following columns in a Pandas Dataframe:
 id | Aspect | None | Mild | Moderate | Severe | Total_votes | Aspect_rating | text
 ```
 ## Code
-Please find the code in the code folder.
+Please find the code under the `Code` folder.
 
 ### Dependency libraries
 In this work, we use `Python 3.7.9`. The dependency libraries are with the following versions:
