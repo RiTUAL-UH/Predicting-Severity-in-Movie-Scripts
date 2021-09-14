@@ -6,9 +6,9 @@ This repository hosts the dataset and the source code of the paper *From None to
 ## Dataset
 Please find the dataset through this link.
 
-This zipfile contains train/dev/test files of 5 aspects of age-restricted content.
+This zip file contains train/dev/test files of 5 aspects of age-restricted content.
 
-The data is formated in the following columns in a Pandas Dataframe:
+The data is formatted in the following columns in a Pandas Dataframe:
 ```
 id | Aspect | None | Mild | Moderate | Severe | Total_votes | Aspect_rating | text
 ```
@@ -31,7 +31,7 @@ Use the following command to embed all text into utterance-level sentence embedd
 ```bash
 python text_embedding.py --data_dir your-save-path
 ```
-The reason of obtaining and saving sentence embeddings beforehand is to reuse and save experiment time. Otherwise getting embeddings together with training will drastically increase running time.
+The reason for obtaining and saving sentence embeddings beforehand is to reuse and save experiment time. Otherwise getting embeddings together with training will drastically increase the running time.
 #### Training and testing the model
 Use the following command to run the training-test script with default settings.
 ```bash
