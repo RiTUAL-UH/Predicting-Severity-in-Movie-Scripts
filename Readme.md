@@ -1,4 +1,4 @@
-# From None to Severe: Predicting Intensity in Movie Scripts
+# From None to Severe: Predicting Severity in Movie Scripts
 <p align="right"><i>Authors: Yigeng Zhang, Mahsa Shafaei, Fabio Gonzalez and Thamar Solorio</i></p> 
 
 This repository hosts the dataset and the source code of the paper *From None to Severe: Predicting Intensity in Movie Scripts*.
