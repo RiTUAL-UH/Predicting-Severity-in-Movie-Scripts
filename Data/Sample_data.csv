@@ -1,0 +1,6 @@
+﻿id,frightening,None,Mild,Moderate,Severe,Total_votes,Aspect_rating,text
+ttxxxxxx1,None,10,0,0,0,10,0,Sample dialogue script 1
+ttxxxxxx2,Moderate,0,2,15,3,20,2,Sample dialogue script 2
+ttxxxxxx3,Severe,0,1,2,7,10,3,Sample dialogue script 3
+ttxxxxxx4,Mild,5,10,5,0,20,1,Sample dialogue script 4
+ttxxxxxx5,None,28,2,0,0,30,0,Sample dialogue script 5
