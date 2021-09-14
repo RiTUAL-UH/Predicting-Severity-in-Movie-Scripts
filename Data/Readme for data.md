@@ -1,7 +1,8 @@
-The 'data.zip' file is the exact data partitioning for each aspect of the original work. It has the 'IMDb_id' as the unique key of referring the corresponding movies on 'imdb.com'. The 'severity_rating' column has the links to the severity rating items under 'Parent Guide'. We do not release the rating digits directly due to regulation concerns, but it is very easy to use the ids and links we provide to collect the up-to-date ratings by the users. If the user would like to use the rating digits exactly the same as the paper is based on, please contact the author.
+### Instruction
+The `data.zip` file is the exact data partitioning for each aspect of the original work. It has the `IMDb_id` as the unique key of referring the corresponding movies on `imdb.com`. The `severity_rating` column has the links to the severity rating items under `Parent Guide`. We do not release the rating digits directly due to regulation concerns, but it is very easy to use the ids and links we provide to collect the up-to-date ratings by the users. If the user would like to use the rating digits exactly the same as the paper is based on, please contact the author.
 
-The movies script text is hosted at our research group website: https://ritual.uh.edu/1493-2/. It contains the movie corpus, a collection of movie subtitles and metadata for about 15k movies. One should simply match the movie scripts and the ratings on the 'IMDb_id', then the dataset is ready to use.
+The movies script text is hosted at our research group website: https://ritual.uh.edu/1493-2/. It contains the movie corpus, a collection of movie subtitles and metadata for about 15k movies. One should simply match the movie scripts and the ratings on the `IMDb_id`, then the dataset is ready to use.
 
-The 'Sample_data.csv' provides a sample dataset with dummy data entries. The code can be applied on the data with the same format as the sample data.
+The `Sample_data.csv` provides a sample dataset with dummy data entries. The code can be applied on the data with the same format as the sample data.
 
 Research purposes only.
