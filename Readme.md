@@ -45,7 +45,20 @@ python RNN-Trans_S-MT.py --dev_run
 ## Citation
 If you would like to use our work and code for research, please cite our paper with the following info:
 ```
-Coming soon
+@inproceedings{zhang-etal-2021-none-severe,
+    title = "From None to Severe: {P}redicting Severity in Movie Scripts",
+    author = "Zhang, Yigeng  and
+      Shafaei, Mahsa  and
+      Gonzalez, Fabio  and
+      Solorio, Thamar",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.332",
+    pages = "3951--3956",
+}
 ```
 ## Contact
 Please contact `yzhang168@uh.edu` for questions.
